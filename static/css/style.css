@@ -1,0 +1,19 @@
+@font-face {
+  font-family:"Billion Dreams Normal";
+  src: url("BillionDreams_PERSONAL.ttf");
+}
+
+body{
+    background: url("/static/images/bg.jpg") 50% 0 no-repeat fixed;
+    height: 100vh;
+}
+
+h1 {
+  font-family: "Billion Dreams Normal";
+  font-size: 400%
+}
+
+svg:hover{
+    color: Red !important;
+}
+
