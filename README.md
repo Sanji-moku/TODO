@@ -1,5 +1,11 @@
 # TODO
 
+
+### Preview
+![image](https://user-images.githubusercontent.com/80407460/200920342-2055a42d-e373-4b50-8fe8-7e6150ac8ae0.png)
+
+
+## Installation 
 First clone the repository from Github and switch to the new directory:
 
     $ git clone https://github.com/Sanji-moku/TODO.git
@@ -23,6 +29,4 @@ You can now run the development server:
 
 Open your browser and go to http://127.0.0.1:8000, you will be greeted with a welcome page.
 
-## Preview
 
-![image](https://user-images.githubusercontent.com/80407460/200920342-2055a42d-e373-4b50-8fe8-7e6150ac8ae0.png)
