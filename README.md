@@ -22,3 +22,7 @@ You can now run the development server:
     $ python manage.py runserver
 
 Open your browser and go to http://127.0.0.1:8000, you will be greeted with a welcome page.
+
+## Preview
+
+![image](https://user-images.githubusercontent.com/80407460/200920342-2055a42d-e373-4b50-8fe8-7e6150ac8ae0.png)
