@@ -20,3 +20,5 @@ Then simply apply the migrations:
 You can now run the development server:
 
     $ python manage.py runserver
+
+Open your browser and go to http://127.0.0.1:8000, you will be greeted with a welcome page.
